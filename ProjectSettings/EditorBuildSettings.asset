@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PilihanScene.unity
+    guid: eb7a5ed5095f55a4b8bab9995b8dafda
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 103ebd5cbc8bc9641aef2a8b53c3046e
+  - enabled: 1
+    path: Assets/Scenes/UbahScene.unity
+    guid: ff0f27e996b2ed345ab4d3189a36e553
+  - enabled: 1
+    path: Assets/Scenes/GazeScene.unity
+    guid: a615144067dbb1d4c83b35e44f595262
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cde5049ceb147e14282fc7591ea2f5de, type: 2}
